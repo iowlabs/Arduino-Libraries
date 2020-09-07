@@ -1,5 +1,4 @@
 # Arduino Libraries
-Compilation of Arduino Libraries
 
 Compilation of Arduino Libraries
 
